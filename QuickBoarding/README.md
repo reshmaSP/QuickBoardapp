@@ -1,3 +1,11 @@
+#about
+An mobile application to digitally  onboard customer easily , faster and securely 
+Implemented an interface where the user has to verify email no for further authentication ,with an option to login with biometric and face verification.
+Stored encrypted user credentials into firebase database for security purpose
+Utilized flutter,dart,firebase,Encryption algorithm and APIs.
+
+
+
 # flutter_app
 
 A new Flutter project.
@@ -14,3 +22,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#
+
